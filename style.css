@@ -380,7 +380,7 @@ project-card a {
     }
 
     nav a {
-        font-size: 14px;
+        font-size: 16px;
     }
 
     .hero {
@@ -432,11 +432,11 @@ project-card a {
     }
 
     .project-page h1 {
-        font-size: 44px;
+        font-size: 50px;
     }
 
     .project-intro {
-        font-size: 19px;
+        font-size: 22px;
         margin-bottom: 50px;
     }
 
